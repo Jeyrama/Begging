@@ -33,3 +33,5 @@ function beggars(values, n){
   }
   return outputValues;
 }
+
+// or
